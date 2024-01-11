@@ -13,7 +13,7 @@ export default function App() {
   return (
     <div className="App">
       {select === -1 && (
-        <Head windowWidthValue={windowWidthValue} onSetState={setSelect} />
+        <Head windowWidthValue={windowWidthValue} selectHandle={setSelect} />
       )}
       {select === 0 && <About onSetState={setSelect} state={select} />}
       {select === 1 && <Credit onSetState={setSelect} state={select} />}
