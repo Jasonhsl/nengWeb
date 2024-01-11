@@ -28,7 +28,7 @@ export default function MyApp(props) {
           <div className="aboutText">
             <div className="gy">关于我们</div>
             <div className="sj">
-              以专业视角，应对各种复杂需求 业务电话：XXX-XXX-XXX
+              以专业视角，应对各种复杂需求 业务电话：400-651-0001
             </div>
           </div>
         </div>
@@ -83,7 +83,7 @@ export default function MyApp(props) {
           <div className="aboutText">
             <div className="gy">关于我们</div>
             <div className="sj">
-              以专业视角，应对各种复杂需求 业务电话：XXX-XXX-XXX
+              以专业视角，应对各种复杂需求 业务电话：400-651-0001
             </div>
           </div>
         </div>
